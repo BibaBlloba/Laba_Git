@@ -1,1 +1,0 @@
-print("value_2")
